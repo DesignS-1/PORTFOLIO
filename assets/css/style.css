@@ -132,7 +132,7 @@ button {
 }
 
 .brand {
-  color: rgba(255, 255, 255, 0.78);
+  color: rgba(153, 56, 56, 0.78);
   font-weight: 700;
   letter-spacing: -0.03em;
   font-size: 1rem;
@@ -1853,4 +1853,8 @@ template {
     font-size: 0.84rem;
     padding: 7px 12px;
   }
+}
+
+#works .thumb-overlay{
+  background-color: rgba(0,0,0,0.7);
 }
